@@ -1,0 +1,40 @@
+.seccao-sobre {
+    background: #EAF2FD;
+    font-family:'Raleway', sans-serif;
+
+}
+
+.artigo-sobre {
+   text-align: justify;
+   padding-right: 37rem;
+   padding-left: 10rem;
+}
+
+.titulo_sobre{
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 1.1rem;
+    padding-bottom:0.8rem ;
+  
+}
+
+.conteudo-sobre{
+    
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+
+.assinatura-img {
+    padding-left: 10rem;
+    width: 190px;
+    padding-top: 1.2rem;
+    padding-bottom: 0.7rem;
+}
+

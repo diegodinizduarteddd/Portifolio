@@ -1,0 +1,25 @@
+:root{
+background: #F5F5F5;
+
+    
+}
+
+body{
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+ 
+}
+
+
+h2 {
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 2.0rem;
+    margin-bottom: 0.8rem;
+    
+}

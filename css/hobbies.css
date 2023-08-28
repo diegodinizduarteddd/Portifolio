@@ -1,0 +1,16 @@
+.hobbies{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 5.6rem;
+    padding-right: 9rem;
+    padding-bottom: 4rem;
+}
+
+#item-hobbie{
+    
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.1rem;
+    width: 175px;
+    height: 176px;
+    
+}

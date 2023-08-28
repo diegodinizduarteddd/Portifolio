@@ -1,0 +1,32 @@
+.formacao-academica{
+    background: #EAF2FD;
+    padding-bottom: 35px;
+    padding-top: 5px;
+}
+
+.formacao-lista{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1.8rem;
+}
+
+.titulo-curso{
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #464646;
+    margin-top: 8px;
+}
+
+#descricao_academica{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 7px;
+}

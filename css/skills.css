@@ -1,0 +1,55 @@
+.skills{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 5.6rem;
+    padding-right: 9rem;
+    padding-bottom: 4rem;
+}
+
+#item-skill{
+    
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.1rem;
+    width: 175px;
+    height: 176px;
+    
+}
+
+.li-html{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-end;
+   
+}
+
+#name_skill{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    width: 175px;
+    height: 168px;
+    padding-left: 0.6rem;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+ 
+}
+#img-li {
+    display: inline;
+    margin-top: 110px;
+    margin-left: 15px;
+}
+
+#texto-li{
+    padding-left: 15px;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+   padding-top: 10px;
+}

@@ -1,0 +1,37 @@
+.experiencia-profissional{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 280px;
+    margin-right: 480px;
+    margin-top: 60px;
+}
+
+#img_profissional{
+    width: 752px;
+    height: 406px;
+    border: 2px solid grey;
+
+}
+.info_profissional{
+    margin-top: 180px;
+  
+}
+.titulo-projeto{
+    font-family: Raleway;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.subtitulo-projeto{
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin: 5px;
+}
